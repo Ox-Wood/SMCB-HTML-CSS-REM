@@ -1,2 +1,2 @@
-# SMCB-HTML-CSS
+# SMCB-HTML-CSS-REM
 My first repository on GitHub.
